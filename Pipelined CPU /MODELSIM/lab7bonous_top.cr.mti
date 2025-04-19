@@ -1,0 +1,106 @@
+C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_stage2_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_stage2_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7bonus_stage2_tb
+
+Top level modules:
+	lab7bonus_stage2_tb
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAM2
+
+Top level modules:
+	RAM2
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX2a.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX2a.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX2a
+
+Top level modules:
+	MUX2a
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX3a.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX3a.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX3a
+
+Top level modules:
+	MUX3a
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX4a.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX4a.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX4a
+
+Top level modules:
+	MUX4a
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/lab7_bonousTB.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/lab7_bonousTB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_bonousTB
+
+Top level modules:
+	lab7_bonousTB
+
+} {} {}} C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_autograder_check.sv {1 {vlog -work work -sv -stats=none C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_autograder_check.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7bonus_check_tb
+
+Top level modules:
+	lab7bonus_check_tb
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/ALU.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/ALU.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX8a.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX8a.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX8a
+
+Top level modules:
+	MUX8a
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/dec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/dec.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dec
+
+Top level modules:
+	dec
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/shifter.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/shifter.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/Reg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/Reg.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Reg
+
+Top level modules:
+	Reg
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/vDFF.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/vDFF.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vDFF
+
+Top level modules:
+	vDFF
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/regfile.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/regfile.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM.sv} {1 {vlog -work work -sv -stats=none {C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}}

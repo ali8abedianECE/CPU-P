@@ -1,0 +1,8 @@
+
+State Machine - |lab7bonus_top|cpu:CPU|datapath:DP|BranchController:BCCT|State
+Name State.011 State.010 State.001 State.000 State.100 
+State.000 0 0 0 0 0 
+State.001 0 0 1 1 0 
+State.010 0 1 0 1 0 
+State.011 1 0 0 1 0 
+State.100 0 0 0 1 1 

@@ -1,0 +1,800 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vALU
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1733555077
+!i10b 1
+!s100 SRo<_U15kH75DEb8Bl<<C3
+IR_LGLDLoLS_CQPW>AZ:1b2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_sv_unit
+S1
+Z3 dC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/MODELSIM
+Z4 w1732773403
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/ALU.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/ALU.sv
+L0 6
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1733555077.000000
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/ALU.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@a@l@u
+vBranchController
+R0
+R1
+!i10b 1
+!s100 db<;=zXWQ:4kEYQ]5kLPj3
+IB2E4O800fj20Yhg006dbz3
+R2
+Z9 !s105 datapath_sv_unit
+S1
+R3
+Z10 w1733555052
+Z11 8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/datapath.sv
+Z12 FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/datapath.sv
+L0 226
+R5
+r1
+!s85 0
+31
+R6
+Z13 !s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/datapath.sv|
+Z14 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/datapath.sv|
+!i113 1
+R7
+R8
+n@branch@controller
+vController
+R0
+R1
+!i10b 1
+!s100 7bHGDn9hR_eoN8B8aa:<c2
+IbJe0bFGz@2g@<i@`n?gOj1
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 418
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+n@controller
+vcpu
+R0
+R1
+!i10b 1
+!s100 bNBIglMcH^6S<OYRcm^6`3
+Ied;iF<Bz=RO;nQP^GFRT60
+R2
+!s105 cpu_sv_unit
+S1
+R3
+w1733554515
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/cpu.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/cpu.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/cpu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/cpu.sv|
+!i113 1
+R7
+R8
+vdatapath
+R0
+R1
+!i10b 1
+!s100 NQH8zeiTL_6[A6kjRV[m32
+In?;?16AzoZ<99icPgbR<M2
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 4
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+vdec
+R0
+Z15 !s110 1733555078
+!i10b 1
+!s100 :kBo;bWa8Ohj:VfaAk6Y]3
+IKh@?2B[SK]n9Imh?YOKS81
+R2
+!s105 dec_sv_unit
+S1
+R3
+R4
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/dec.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/dec.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z16 !s108 1733555078.000000
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/dec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/dec.sv|
+!i113 1
+R7
+R8
+vInstaDecoder
+R0
+R1
+!i10b 1
+!s100 ;6]NTiHX48PW@6z<13f?`3
+IhZY<Y0JjUR]8;bP8N_>>J0
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 838
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+n@insta@decoder
+visHalted
+R0
+R1
+!i10b 1
+!s100 a=<>n3Z14lY9USETk;05f1
+IAjSFP4SU?_2mmH3AZc8hA3
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 172
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+nis@halted
+vlab7_bonousTB
+R0
+Z17 !s110 1733555079
+!i10b 1
+!s100 k7P2J5O=^KOiQ4P;DzG3S3
+Ic[SE8V^3JAT<`;[VhjmjH1
+R2
+!s105 lab7_bonousTB_sv_unit
+S1
+R3
+w1733525947
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/lab7_bonousTB.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/lab7_bonousTB.sv
+L0 2
+R5
+r1
+!s85 0
+31
+Z18 !s108 1733555079.000000
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/lab7_bonousTB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/lab7_bonousTB.sv|
+!i113 1
+R7
+R8
+nlab7_bonous@t@b
+vlab7bonus_check_tb
+R0
+R17
+!i10b 1
+!s100 0EiHKLl>hY[2IgDULS8WL1
+Iajl]o7bVD2IMHQL8Toj173
+R2
+!s105 lab7bonus_autograder_check_sv_unit
+S1
+R3
+w1733499713
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_autograder_check.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_autograder_check.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_autograder_check.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_autograder_check.sv|
+!i113 1
+R7
+R8
+vlab7bonus_stage2_tb
+R0
+R17
+!i10b 1
+!s100 :XLi=kFj8P:C219F6P]jk2
+IZBJUiSied8m^^4TIe5Ybi0
+R2
+!s105 lab7bonus_stage2_tb_sv_unit
+S1
+R3
+w1733499969
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_stage2_tb.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_stage2_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_stage2_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/lab7bonus_stage2_tb.sv|
+!i113 1
+R7
+R8
+vlab7bonus_top
+R0
+R1
+!i10b 1
+!s100 kiaFe;iIza22]<iVj_n@41
+I>78?;7c?_CAMfl;jef0cK2
+R2
+Z19 !s105 lab7bonous_top_sv_unit
+S1
+R3
+Z20 w1733554481
+Z21 8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/lab7bonous_top.sv
+Z22 FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/lab7bonous_top.sv
+L0 4
+R5
+r1
+!s85 0
+31
+R6
+Z23 !s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/lab7bonous_top.sv|
+Z24 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/lab7bonous_top.sv|
+!i113 1
+R7
+R8
+vLEDS
+R0
+R1
+!i10b 1
+!s100 YH[GO`A`oJ2^IOMXP4_:E2
+I7Kn2;5a28?:^1^OU0E:Sb2
+R2
+R19
+S1
+R3
+R20
+R21
+R22
+L0 85
+R5
+r1
+!s85 0
+31
+R6
+R23
+R24
+!i113 1
+R7
+R8
+n@l@e@d@s
+vMUX2a
+R0
+R15
+!i10b 1
+!s100 jdJhIU2>ljieJ5AcW`F;z2
+I<fIRnXVM8UWn:81^K<c6J3
+R2
+!s105 MUX2a_sv_unit
+S1
+R3
+R4
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX2a.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX2a.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX2a.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX2a.sv|
+!i113 1
+R7
+R8
+n@m@u@x2a
+vMUX3a
+R0
+R15
+!i10b 1
+!s100 IdIdANdDENTVn[d1^jc620
+IH5hVaFo?@Q9@1_c=m9?:N3
+R2
+!s105 MUX3a_sv_unit
+S1
+R3
+R4
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX3a.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX3a.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX3a.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX3a.sv|
+!i113 1
+R7
+R8
+n@m@u@x3a
+vMUX4a
+R0
+R15
+!i10b 1
+!s100 AJAa33D]O2YmzodfbMEP`1
+I]K<OaVj?YI:4?HTSS9];O0
+R2
+!s105 MUX4a_sv_unit
+S1
+R3
+R4
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX4a.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX4a.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX4a.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX4a.sv|
+!i113 1
+R7
+R8
+n@m@u@x4a
+vMUX8a
+R0
+R15
+!i10b 1
+!s100 YV@41HXiJBYomMVO?g1TI2
+INDJJA`Jceiz=KkVfUKDeK3
+R2
+!s105 MUX8a_sv_unit
+S1
+R3
+R4
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX8a.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX8a.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX8a.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/MUX8a.sv|
+!i113 1
+R7
+R8
+n@m@u@x8a
+vPIPELINE_EXFI
+R0
+R1
+!i10b 1
+!s100 05LX2cbYDP^d4PaTlhG;l1
+Im_?llb0A_LCfNRVo5^i:10
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 660
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+n@p@i@p@e@l@i@n@e_@e@x@f@i
+vPIPELINE_IDEX
+R0
+R1
+!i10b 1
+!s100 oH@k8DLF0dI<LD;_IHmi40
+IGSk:WG5<omM5QHcd?B<i]0
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 682
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+n@p@i@p@e@l@i@n@e_@i@d@e@x
+vPIPELINE_IFID
+R0
+R1
+!i10b 1
+!s100 :6b>QL=>kkJX0fz1^mZga3
+IA15L=XI[gib4G2g7B`8WW0
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 788
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+n@p@i@p@e@l@i@n@e_@i@f@i@d
+vPIPELINE_PCIF
+R0
+R1
+!i10b 1
+!s100 ^hh356>Y1YnXF]kl6^3P03
+I3^DR5?bW_SKW^55dPgfjg3
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 817
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+n@p@i@p@e@l@i@n@e_@p@c@i@f
+vPIPELINEREGISTER
+R0
+R1
+!i10b 1
+!s100 CD3@HS=^a9=?CGd?5h>We3
+Igm`QI=WhQki?_WDoA:Q`F1
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 881
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+n@p@i@p@e@l@i@n@e@r@e@g@i@s@t@e@r
+vProgramCounter
+R0
+R1
+!i10b 1
+!s100 JF;n[c7NQhg[QdjA=4o7H1
+InBD0efYRQ6D>a3K2?P>N;3
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 856
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+n@program@counter
+vRAM
+R0
+R1
+!i10b 1
+!s100 0TQRC8FDVi:h2J]O]WcZD0
+I>nA=[elR3keE42JDcFN2X2
+R2
+!s105 RAM_sv_unit
+S1
+R3
+w1733552228
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM.sv
+L0 6
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM.sv|
+!i113 1
+R7
+R8
+n@r@a@m
+vRAM2
+R0
+R17
+!i10b 1
+!s100 kHg^?mU=BmXT3CCa<nM<_0
+IVTiAN^7PiH=?U[RJzS<mF2
+R2
+!s105 RAM2_sv_unit
+S1
+R3
+w1733551397
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM2.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM2.sv
+L0 6
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/RAM2.sv|
+!i113 1
+R7
+R8
+n@r@a@m2
+vReg
+R0
+R15
+!i10b 1
+!s100 YZOR<m>Z>hh1AMJgSY8EU1
+Ion[HYd[AdS03WX9jSV`Pd1
+R2
+!s105 Reg_sv_unit
+S1
+R3
+R4
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/Reg.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/Reg.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/Reg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/Reg.sv|
+!i113 1
+R7
+R8
+n@reg
+vregfile
+R0
+R1
+!i10b 1
+!s100 ^n3UdBHmEm5Gz:>BW5UBb0
+I?5V`m2Y:hDcEDSGlmmOFG2
+R2
+!s105 regfile_sv_unit
+S1
+R3
+w1733513164
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/regfile.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/regfile.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/regfile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/regfile.sv|
+!i113 1
+R7
+R8
+vshifter
+R0
+R1
+!i10b 1
+!s100 ZO;7QPOzAND0Y4bLZRN:_0
+ITHla@iOg5gfLMC9BSa6991
+R2
+!s105 shifter_sv_unit
+S1
+R3
+R4
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/shifter.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/shifter.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/shifter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/defMod/shifter.sv|
+!i113 1
+R7
+R8
+vSliderSwitch
+R0
+R1
+!i10b 1
+!s100 P92bnS8PWOGRV:hKnRT`o0
+I:7hD;gKkU]KbJhFzEc`X42
+R2
+R19
+S1
+R3
+R20
+R21
+R22
+L0 75
+R5
+r1
+!s85 0
+31
+R6
+R23
+R24
+!i113 1
+R7
+R8
+n@slider@switch
+vsseg
+R0
+R1
+!i10b 1
+!s100 ;KQ[XYjH3><]SC_2GRigU1
+IY;1TDW@aal<WhzZ_e2G_I1
+R2
+R19
+S1
+R3
+R20
+R21
+R22
+L0 116
+R5
+r1
+!s85 0
+31
+R6
+R23
+R24
+!i113 1
+R7
+R8
+vstall_module
+R0
+R1
+!i10b 1
+!s100 hc9lz4ZI]7>0]i?:<0=4?3
+Iml:^KnVjo>bf<SI0ed7Hj1
+R2
+R9
+S1
+R3
+R10
+R11
+R12
+L0 540
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+vvDFF
+R0
+R15
+!i10b 1
+!s100 `aje]gGg10B1cB1]zJPhS1
+IR`9=^3X[XIRWhFRIJ]4RO1
+R2
+!s105 vDFF_sv_unit
+S1
+R3
+R4
+8C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/vDFF.sv
+FC:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/vDFF.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/vDFF.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/a_abe/Desktop/lab-7-l1a-bonus-ali8abedianECE/Pipelined CPU retry1/Common blocks/vDFF.sv|
+!i113 1
+R7
+R8
+nv@d@f@f
